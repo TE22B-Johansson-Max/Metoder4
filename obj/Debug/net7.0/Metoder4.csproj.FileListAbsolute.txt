@@ -1,0 +1,14 @@
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.AssemblyInfoInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.AssemblyInfo.cs
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.csproj.CoreCompileInputs.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\bin\Debug\net7.0\Metoder4.exe
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\bin\Debug\net7.0\Metoder4.deps.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\bin\Debug\net7.0\Metoder4.runtimeconfig.json
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\bin\Debug\net7.0\Metoder4.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\bin\Debug\net7.0\Metoder4.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\refint\Metoder4.dll
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.pdb
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\Metoder4.genruntimeconfig.cache
+C:\Users\max.johansson3\Desktop\Programmering\Kapitel 6\Metoder4\obj\Debug\net7.0\ref\Metoder4.dll
